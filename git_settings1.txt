@@ -11,7 +11,9 @@ add new resposit
 create d:/test new file
 cmd> d:/test > git clone up right side address
 
-edit your file
+edit your file-go to reposit folder
+
+chk stat:  git status
 add file:  git add a.txt
 save    :  git commit -m "fix bug"
 updt hub:  git push
