@@ -17,5 +17,14 @@ chk stat:  git status
 add file:  git add a.txt
 save    :  git commit -m "fix bug"
 updt hub:  git push
+
+ubuntu:
+check if it installed
+git --version
+set name and email
+github> settings > developer settings > produce public key
+git clone xxx
+username:
+password: public key 
  
  
