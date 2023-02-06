@@ -1,0 +1,4 @@
+jump to everyplace:
+
+cd /D D:\Git_note\Note-for-hub
+

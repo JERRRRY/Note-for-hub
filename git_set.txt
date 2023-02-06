@@ -1,0 +1,30 @@
+install git
+set ssh key
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+get the key loc from bash
+go to the account on github and add in the setting > ssh key
+set name and email on bash
+
+Basic usage:
+add new resposit
+create d:/test new file
+cmd> d:/test > git clone up right side address
+
+edit your file-go to reposit folder
+
+chk stat:  git status
+add file:  git add a.txt
+save    :  git commit -m "fix bug"
+updt hub:  git push
+
+ubuntu:
+check if it installed
+git --version
+set name and email
+github> settings > developer settings > produce public key
+git clone xxx
+username:
+password: public key 
+ 
+ 
